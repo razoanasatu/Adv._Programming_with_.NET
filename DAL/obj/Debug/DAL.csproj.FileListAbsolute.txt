@@ -1,0 +1,17 @@
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\DAL\bin\Debug\DAL.dll.config
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\DAL\bin\Debug\DAL.dll
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\DAL\bin\Debug\DAL.pdb
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\DAL\bin\Debug\EntityFramework.dll
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\DAL\bin\Debug\EntityFramework.xml
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\DAL\obj\Debug\DAL.dll
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\DAL\obj\Debug\DAL.pdb
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\DAL\obj\Debug\DAL.Migrations.InitDB.resources
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\DAL\obj\Debug\DAL.Migrations.UpdateDatabase.resources
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\DAL\obj\Debug\DAL.Migrations.FixForeignKeyIssues.resources
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\DAL\obj\Debug\DAL.Migrations.InitDB1.resources

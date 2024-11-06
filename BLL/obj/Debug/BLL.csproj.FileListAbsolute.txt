@@ -1,0 +1,14 @@
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\BLL\bin\Debug\BLL.dll
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\BLL\bin\Debug\BLL.pdb
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\BLL\bin\Debug\DAL.dll
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\BLL\bin\Debug\DAL.pdb
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\BLL\bin\Debug\DAL.dll.config
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\BLL\obj\Debug\BLL.dll
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\BLL\obj\Debug\BLL.pdb
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\BLL\bin\Debug\AutoMapper.dll
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\BLL\bin\Debug\EntityFramework.dll
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\BLL\bin\Debug\AutoMapper.xml
+E:\Sem\13th SEMESTER\.NET\FINAL\EventManagement\BLL\bin\Debug\EntityFramework.xml
